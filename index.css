@@ -1,0 +1,74 @@
+/* ===header=== */
+header {
+background: #1A1100;
+color: #fff;
+padding: 2px;
+text-align: center;
+margin-top: -10px;
+width: 100em;
+margin-left: -10em;
+font-family: arial;
+}
+
+/* ===odkazy */
+nav a {
+text-decoration: none;
+border: 2px solid #ccc;
+background: #3333fF;
+color: #fff;
+padding: 1px;
+font-size: 13px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* ===zakonceni by ve footeru=== */
+.copyright {
+margin-top: +57em;
+background: #1A1100;
+color: #fff;
+padding: 3px;
+border-radius: 5px;
+font-size: 13px;
+}
+
+/* ===main=== */
+main {
+background: #1A1100;
+width: 100em;
+margin-left: -20px;
+}
+
+/* ===main h3=== */
+main h3 {
+color: #fff;
+margin-top: 10em;padding: 2px;
+margin-left: 35em;
+font-size: 22px;
+}
+
+/* === brázek */
+img {
+margin-left: 2em;
+}
+
+/*=== main tlacitko=== */
+main button {
+font-size: 12px;
+margin-left: 45em;
+height: 40px;
+width: 120px;
+background: #3333ff;
+}
+
+/*=== main tlacitko odkaz=== */ 
+main button a {
+text-decoration: none;
+color: #fff;
+}
+
+.popis {
+color: #fff;
+position: absolute;
+margin-top: +17em;
+margin-left: +40em;
+}
